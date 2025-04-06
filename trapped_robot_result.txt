@@ -1,0 +1,2 @@
+Robot found at (1, 1).
+No survivors found.

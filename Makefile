@@ -25,9 +25,10 @@ clean:
 run: $(EXEC)
 	./$(EXEC)
 
-# Rules for testing
+# Rule to run the test cases
 test: $(EXEC)
-	./$(EXEC) test
+	@echo "Running tests..."
+	@./test.sh
 
 # Phony targets
 .PHONY: all clean run test

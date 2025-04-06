@@ -59,8 +59,9 @@ signals.bin: Binary file of signal strengths, stored row-major.
 threshold: Integer threshold to consider a signal strong enough.
 
 output.txt: Updated map with X marking detected survivor zones.
-
+```
 Example Input:
+
 map.txt
 
 #######
@@ -79,7 +80,7 @@ output.txt
 # ### #
 #     #
 #######
-
+```
 # Requirements and Constraints
 Dynamic memory allocation for map and signal grid.
 

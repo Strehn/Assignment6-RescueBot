@@ -1,0 +1,5 @@
+P3
+10 1
+255
+# long corridor
+R........S

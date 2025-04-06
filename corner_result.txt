@@ -1,0 +1,2 @@
+Robot found at (0, 0).
+Path to survivor: (0, 0) -> (4, 4)

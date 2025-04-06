@@ -99,3 +99,28 @@ Security/Resilience Awareness: Signal analysis mimics real-world sensor data pro
 
 Simulation & Planning: Real-world applications in robotics, search-and-rescue, and data inference.
 Testing: Test the grid using known patterns (e.g., gliders, blinkers) to verify that your implementation correctly simulates the Game of Life.
+
+# Test Files
+basic_map.txt - A simple map with one survivor
+
+empty_map.txt - An empty map with no survivors
+
+multi_map.txt - A map with multiple survivors
+
+blocked_map.txt - A map with a survivor completely surrounded by walls
+
+large_map.txt - A large map to test performance
+
+multi_path_map.txt - A map with multiple possible optimal paths
+
+corridor_map.txt - A long corridor with a survivor at the end
+
+edge_case_map.txt - A map with the survivor at the edge
+
+corner_start_map.txt - A map with the robot starting in the corner
+
+no_robot_map.txt - A map where the robot is not on the map
+
+trapped_robot_map.txt - A map where the robot is trapped with no survivors
+
+all_blocked_map.txt - A map where all survivors are unreachable

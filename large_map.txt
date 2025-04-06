@@ -1,0 +1,5 @@
+P3
+50 50
+255
+# A large open map
+(50x50 grid of . characters with a robot and survivor in opposite corners)
